@@ -1,0 +1,10 @@
+{
+   "apps": [
+     {
+       "serverURL": "http://localhost:1337/parse",
+       "appId": "WeatherApp",
+       "masterKey": "lksdjhfg23SDG4*",
+       "appName": "WeatherApp"
+     }
+   ]
+ }
