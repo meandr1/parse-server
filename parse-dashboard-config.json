@@ -1,7 +1,7 @@
 {
    "apps": [
      {
-       "serverURL": "http://localhost:1337/parse",
+       "serverURL": "https://parse-meandr1.koyeb.app/parse",
        "appId": "WeatherApp",
        "masterKey": "lksdjhfg23SDG4*",
        "appName": "WeatherApp"
